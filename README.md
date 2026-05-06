@@ -1,2 +1,30 @@
-# ff5cd3d0-urban-farming-and-hydroponics-
-Notion workspace for home growers, community gardens, and small-scale urban farms tracking plant health, nutrients, and harvests. Features a grow journal with daily light, temperature, humidity, and pH log, plant lifecycle tracker from seed to harvest, nutrient schedule builder, pest and disease diagnosis notes with treatment log, harvest yield tra
+# Urban Farming and Hydroponics Grow Journal Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRmaEX3aL5wg2hi47qcZb1o)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRmaEX3aL5wg2hi47qcZb1o)
+- [Buy on Whop](https://whop.com/urban-farming-and-hydroponics-grow-journal-notion-template)
+
